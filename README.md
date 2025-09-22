@@ -1,8 +1,8 @@
 # Ex-3-Implement-Depth-First-Search-Traversal-of-a-Graph
 
-**Name:** P KANISHKA
+**Name:** Balaji SK
 
-**Register Number:** 2305001011
+**Register Number:** 2305003001
 
 ### Aim:
 To Implement Depth First Search Traversal of a Graph using Python 3.
